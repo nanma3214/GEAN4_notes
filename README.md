@@ -1,7 +1,8 @@
 # About This Repository
 **There are sections listed below that are Still Under Construction** <br/>
 
-Notes on GEANT4 (See Wiki page) including:
+This repository documented notes on GEANT4 (See Wiki page) from past work
+Including:
 - Useful links for building GEANT4 applications
 - GEANT4, Qt, and CRY Library Installation
 - GEANT4 Class Design
